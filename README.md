@@ -15,7 +15,10 @@ Once the user's score is reset after an incorrect guess, the game restarts.
 
 
 ## How to use this application
-- [ ] 
+- [ ] View app on Github Pages: https://kyle-krupp.github.io/ClickyGame/
+
+OR
+
 - [ ] Clone this repository
 - [ ] npm install
 - [ ] yarn start
