@@ -2,10 +2,9 @@
   "name": "react_clickgame",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Kevinwei0619.github.io/React_ClickyGame",
+  "homepage": "https://kyle-krupp.github.io/ClickyGame",
   "dependencies": {
     "animate.css": "^3.7.0",
-    "gh-pages": "^2.0.1",
     "npm": "^6.4.1",
     "react": "^16.5.2",
     "react-bootstrap": "^0.32.4",
@@ -28,5 +27,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
