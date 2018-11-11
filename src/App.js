@@ -3,7 +3,6 @@ import "./App.css";
 import Nav from "./components/Nav";
 import Jumnotron from "./components/Jumbotron";
 import ClickyCard from "./components/ClickyCard";
-import Footer from "./components/Footer/Index";
 import friends from "./friends.json";
 
 import { Row, Col, Grid } from "react-bootstrap";
@@ -127,7 +126,6 @@ class App extends Component {
             ))}
           </Row>
         </Grid>
-        <Footer />
       </div>
     );
   }
