@@ -2,7 +2,7 @@
   "name": "react_clickgame",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kyle-krupp.github.io/clickyGame/",
+  "homepage": "https://kyle-krupp.github.io/ClickyGame/",
   "dependencies": {
     "animate.css": "^3.7.0",
     "npm": "^6.4.1",
